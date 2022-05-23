@@ -1,0 +1,122 @@
+- name:     Week 1
+
+- name:     Responsibility
+  days:
+      - date:           MON 06/27
+        topics:         "No Class: Orientation at RGG"
+
+      - date:           TUE 06/28
+        topics:         Syllabus, Talents, Ethics
+        assignment:     Reading 00
+
+      - date:           WED 06/29
+        topics:         Professional Engineer, Code of Ethics, Contracts
+        assignment:     Reading 01
+
+      - date:           THU 06/30
+        topics:         "No Class: Encountering Ancient Rome"
+
+      - date:           FRI 07/01
+        topics:         Diversity, Codes of Conduct
+        assignment:     Reading 02
+
+- name:     Week 2
+- name:     Disasters
+  days:
+      - date:           MON 07/04
+        topics:         Disasters I
+        assignment:     Reading 03
+
+      - date:           TUE 07/05
+        topics:         Disasters II
+        assignment:     Reading 04
+
+      - date:           WED 07/06
+        topics:         "No Class: St. Peter's Bascilica & Excavations"
+
+      - date:           THU 07/07
+        topics:         Whistleblowing I
+        assignment:     Reading 05
+
+      - date:           FRI 07/08
+        topics:         Whistleblowing II
+        assignment:     Reading 06
+
+- name:     Week 3
+- name:     Regulation
+  days:
+      - date:           MON 07/11
+        topics:         Corporate Conscience
+        assignment:     Reading 07
+      
+      - date:           TUE 07/12
+        topics:         "No Class: Vatican Museums"
+
+      - date:           WED 07/13
+        topics:         Antitrust
+        assignment:     Reading 08
+
+      - date:           THU 07/14
+        topics:         Environment
+        assignment:     Reading 09
+
+      - date:           FRI 07/15
+        topics:         "No Class"
+        assignment:     Project 01
+
+- name:     Week 4
+- name:     Intellectual Property
+  days:
+      - date:           MON 07/18
+        topics:         "No Class"
+
+      - date:           TUE 07/19
+        topics:         Patents
+        assignment:     Reading 10
+
+      - date:           WED 07/20
+        topics:         Copyrights
+        assignment:     Reading 11
+
+      - date:           THU 07/21
+        topics:         Right to Repair
+        assignment:     Reading 12
+
+      - date:           FRI 07/22
+        topics:         "No Class"
+
+- name:     Week 5
+- name:     Public Interest
+  days:
+      - date:           MON 07/25
+        topics:         "No Class"
+
+      - date:           TUE 07/26
+        topics:         Privacy
+        assignment:     Reading 13
+
+      - date:           WED 07/27
+        topics:         Censorship, Freedom of Speech
+        assignment:     Reading 14
+
+      - date:           THU 07/28
+        topics:         Immigration, Automation
+        assignment:     Reading 15
+
+      - date:           FRI 07/29
+        topics:         Cryptocurrency
+        assignment:     Reading 16
+
+- name:     Week 6
+- name:     Presentations
+  days:
+      - date:           MON 08/01
+        topics:         Project 02 Presentations
+        assignment:     Project 02
+
+      - date:           TUE 08/02
+        topics:         Project 02 Presentations
+
+      - date:           WED 08/03
+        items:
+            - name:     Final Exam
