@@ -14,11 +14,11 @@
         assignment:     Reading 01
 
       - date:           THU 06/30
-        topics:         "No Class: Encountering Ancient Rome"
-
-      - date:           FRI 07/01
         topics:         Diversity, Codes of Conduct
         assignment:     Reading 02
+
+      - date:           FRI 07/01
+        topics:         "No Class"
 
 - name:     Week 2
 - name:     Disasters
@@ -104,7 +104,7 @@
         assignment:     Reading 15
 
       - date:           FRI 07/29
-        topics:         Cryptocurrency
+        topics:         Artificial Intelligence, Cryptocurrency
         assignment:     Reading 16
 
 - name:     Week 6
