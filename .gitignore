@@ -1,3 +1,4 @@
+docs/*.html
 pages/*.html
 *.pyc
 *.swp
