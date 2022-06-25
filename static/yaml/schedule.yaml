@@ -8,6 +8,9 @@
       - date:           TUE 06/28
         topics:         Syllabus, Talents, Ethics
         assignment:     Reading 00
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1F5-mxc4Low5jeE4k9LnjmecwLK_HTtZZwg4b0GWes5U/edit?usp=sharing
 
       - date:           WED 06/29
         topics:         Professional Engineer, Code of Ethics, Contracts
