@@ -35,10 +35,16 @@
       - date:           MON 07/04
         topics:         Disasters I
         assignment:     Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1JW7p6q1f9jJ0WogAUPuyYL1E3-n5Ogr4ZRQ6Q8jM2f4/edit?usp=sharing
 
       - date:           TUE 07/05
         topics:         Disasters II
         assignment:     Reading 04
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1adxkg1T-fvoHJhoyiqZlSPyNe-y7ChAGL_BGkj9Seno/edit?usp=sharing
 
       - date:           WED 07/06
         topics:         "No Class: St. Peter's Bascilica & Excavations"
@@ -46,10 +52,16 @@
       - date:           THU 07/07
         topics:         Whistleblowing I
         assignment:     Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Deu4anT-tShZHeEGP4acbuB0XIrX_5jFGw5kL2jCLvI/edit?usp=sharing
 
       - date:           FRI 07/08
         topics:         Whistleblowing II
         assignment:     Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/15vLwXVCG5tq9aASUFv2PdReuYUVaFgeZp-G2Swq_paA/edit?usp=sharing
 
 - name:     Week 3
 - name:     Regulation
