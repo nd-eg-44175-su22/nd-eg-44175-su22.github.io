@@ -59,6 +59,9 @@
       - date:           FRI 07/08
         topics:         Whistleblowing II
         assignment:     Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/15vLwXVCG5tq9aASUFv2PdReuYUVaFgeZp-G2Swq_paA/edit?usp=sharing
 
 - name:     Week 3
 - name:     Regulation
