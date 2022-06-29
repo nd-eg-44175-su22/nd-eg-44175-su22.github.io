@@ -42,6 +42,9 @@
       - date:           TUE 07/05
         topics:         Disasters II
         assignment:     Reading 04
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1adxkg1T-fvoHJhoyiqZlSPyNe-y7ChAGL_BGkj9Seno/edit?usp=sharing
 
       - date:           WED 07/06
         topics:         "No Class: St. Peter's Bascilica & Excavations"
