@@ -52,6 +52,9 @@
       - date:           THU 07/07
         topics:         Whistleblowing I
         assignment:     Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Deu4anT-tShZHeEGP4acbuB0XIrX_5jFGw5kL2jCLvI/edit?usp=sharing
 
       - date:           FRI 07/08
         topics:         Whistleblowing II
