@@ -22,6 +22,9 @@
       - date:           THU 06/30
         topics:         Diversity, Codes of Conduct
         assignment:     Reading 02
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Cj0e9ZzLc0TiCMrbSJiM5VS6FZgwefSdoCc27Gbqi9o/edit?usp=sharing
 
       - date:           FRI 07/01
         topics:         "No Class"
