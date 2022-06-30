@@ -19,5 +19,8 @@ build:		$(HTML)
 install:	build
 	lftp -c "open www3ftps.nd.edu; mirror -c -e -R -L $(WWWROOT) www/teaching/$(COURSE)"
 
+push:
+	git checkout docs && git pull --rebase && git push
+
 clean:
 	rm -f $(HTML)
