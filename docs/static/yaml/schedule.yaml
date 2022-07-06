@@ -69,6 +69,9 @@
       - date:           MON 07/11
         topics:         Corporate Conscience
         assignment:     Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1DegNxepoA6RnmXESpY4W_bOx2THcsZu9wjYfzyLhzDg/edit?usp=sharing
       
       - date:           TUE 07/12
         topics:         "No Class: Vatican Museums"
@@ -76,10 +79,16 @@
       - date:           WED 07/13
         topics:         Antitrust
         assignment:     Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1odvJXaZYwVCV0_ang8BWwjuoa0Fv6AsZ69IWMtW7A5k/edit?usp=sharing
 
       - date:           THU 07/14
         topics:         Environment
         assignment:     Reading 09
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Eq5dDI_kPuF1Bw8zqVq3Beo94VTg93qy_UozvFBjDgI/edit?usp=sharing
 
       - date:           FRI 07/15
         topics:         "No Class"
