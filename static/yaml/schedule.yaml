@@ -86,6 +86,9 @@
       - date:           THU 07/14
         topics:         Environment
         assignment:     Reading 09
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1Eq5dDI_kPuF1Bw8zqVq3Beo94VTg93qy_UozvFBjDgI/edit?usp=sharing
 
       - date:           FRI 07/15
         topics:         "No Class"
