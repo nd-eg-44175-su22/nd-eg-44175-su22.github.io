@@ -79,6 +79,9 @@
       - date:           WED 07/13
         topics:         Antitrust
         assignment:     Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1odvJXaZYwVCV0_ang8BWwjuoa0Fv6AsZ69IWMtW7A5k/edit?usp=sharing
 
       - date:           THU 07/14
         topics:         Environment
