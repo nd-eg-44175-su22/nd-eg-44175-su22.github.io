@@ -69,6 +69,9 @@
       - date:           MON 07/11
         topics:         Corporate Conscience
         assignment:     Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1DegNxepoA6RnmXESpY4W_bOx2THcsZu9wjYfzyLhzDg/edit?usp=sharing
       
       - date:           TUE 07/12
         topics:         "No Class: Vatican Museums"
