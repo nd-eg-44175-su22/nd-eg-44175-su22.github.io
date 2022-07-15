@@ -103,6 +103,9 @@
       - date:           TUE 07/19
         topics:         Patents
         assignment:     Reading 10
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/16jSnyqqSqYBbkm18bTfYJppB68XXRicmFhSbuFi9ylk/edit?usp=sharing
 
       - date:           WED 07/20
         topics:         Copyright - Open Source
