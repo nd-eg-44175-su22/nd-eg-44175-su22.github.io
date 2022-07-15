@@ -110,6 +110,9 @@
       - date:           WED 07/20
         topics:         Copyright - Open Source
         assignment:     Reading 11
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1fWmmwXZRsVv-FLo9tVsC4kKAFbcwBDIFrMIozYHMtNY/edit?usp=sharing
 
       - date:           THU 07/21
         topics:         Copyright - DMCA
