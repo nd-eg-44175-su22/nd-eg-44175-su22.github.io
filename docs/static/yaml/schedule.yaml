@@ -131,11 +131,11 @@
         topics:         "No Class"
 
       - date:           TUE 07/26
-        topics:         Privacy
+        topics:         Privacy, Cloud, IoT
         assignment:     Reading 13
 
       - date:           WED 07/27
-        topics:         Censorship, Freedom of Speech
+        topics:         Censorship, Freedom of Speech, Disinformation
         assignment:     Reading 14
 
       - date:           THU 07/28
@@ -143,7 +143,7 @@
         assignment:     Reading 15
 
       - date:           FRI 07/29
-        topics:         Artificial Intelligence, Cryptocurrency
+        topics:         Artificial Intelligence
         assignment:     Reading 16
 
 - name:     Week 6
