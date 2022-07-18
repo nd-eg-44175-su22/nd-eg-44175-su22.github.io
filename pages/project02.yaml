@@ -1,0 +1,223 @@
+title:      "Project 02: Ethics Presentation"
+icon:       fa-group
+navigation: []
+internal:
+external:
+body:       |
+    ## Overview
+
+    For this project, you are to work in groups of **2 - 4** students to
+    research an engineering ethics topic and then create a **video**
+    presentation that accomplishes the following:
+
+    1. Provide a brief background about the engineering topic or issue.
+
+    2. Identify the stakeholders and outline the various viewpoints around the
+    topic or issue.
+
+    3. Analyze and discuss your own position and thoughts regarding the topic
+    or issue.
+
+    The goal of this project is for you to **research** a topic, **explain**
+    the facts regarding the topic, **describe** the different stakeholders and
+    viewpoints, and then **provide** your own analysis and evaluation of the
+    ethics involved in the topic or issue.
+
+    This **video** presentation should be around **5** minutes in length.  It
+    will be played in class during the last week and you will have to answer
+    some followup questions from the audience.
+
+    ### Topics
+
+    Here is a non-exhaustive list of possible presentation topics:
+
+    - [FIU Bridge Collapse](https://abcnews.go.com/US/pedestrian-bridge-florida-international-university-collapses/story?id=53774444)
+
+    - [Toyota Unintended Acceleration](https://www.cbsnews.com/news/toyota-unintended-acceleration-has-killed-89/)
+
+    - [Volkswagen Emissions](https://www.bbc.com/news/business-34324772)
+
+    - [Silk Road / Dread Pirate Roberts](http://time.com/3673321/silk-road-dread-pirate-roberts/)
+
+    - [Mt Gox / Bitcoin](https://blockonomi.com/mt-gox-hack/)
+
+    - [Meltdown / Spectre](https://meltdownattack.com/)
+
+    - [Wannacry / Ransonware](https://www.cnet.com/news/wannacry-wannacrypt-uiwix-ransomware-everything-you-need-to-know/)
+
+    - [Equifax Data Breach](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/)
+
+    - [Facebook and Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html)
+
+    - [YouTube and Censorship](https://www.theguardian.com/technology/2017/mar/21/youtube-advertisers-censorship)
+
+    - [China and Social Credit](https://www.reuters.com/article/us-china-credit/china-to-bar-people-with-bad-social-credit-from-planes-trains-idUSKCN1GS10S)
+
+    - [Theranos Fraud](http://money.cnn.com/2018/03/14/technology/theranos-fraud-scandal/index.html)
+
+    - [CRISPR Patent Battle](https://www.sciencemag.org/news/2017/02/round-one-crispr-patent-legal-battle-goes-broad-institute)
+
+    - [The Boring Company](https://www.entrepreneur.com/article/286766)
+
+    - [ICE and License Plate Tracking](https://www.theverge.com/2018/1/26/16932350/ice-immigration-customs-license-plate-recognition-contract-vigilant-solutions)
+
+    - [VPNfilter / Russian Botnet](https://arstechnica.com/information-technology/2018/06/vpnfilter-malware-infecting-50000-devices-is-worse-than-we-thought/?comments=1&post=35456147)
+
+    - [Amazon Facial Recognition in Policing](https://arstechnica.com/tech-policy/2018/05/police-use-of-amazons-face-recognition-service-draws-privacy-warnings/)
+
+    - [Palantir and Predictive Policing](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd)
+
+    - [Algorithmic Bias](https://www.wired.com/story/how-coders-are-fighting-bias-in-facial-recognition-software/)
+
+    - [Martin Shkreli and Price Gouging](https://www.bloomberg.com/features/2015-martin-shkreli-securities-fraud/)
+
+    - [Michael Chertoff and Body Scanners](http://www.washingtonpost.com/wp-dyn/content/article/2009/12/31/AR2009123102821.html)
+
+    - [UBS Whistleblower](https://www.bloomberg.com/news/articles/2012-09-11/ubs-whistle-blower-birkenfeld-secures-irs-award-lawyers-say)
+
+    - [Sci-Hub](https://arstechnica.com/tech-policy/2016/05/piracy-site-for-academic-journals-playing-game-of-domain-name-whac-a-mole/)
+
+    - [Aaron Schwartz](https://arstechnica.com/tech-policy/2017/01/aaron-swartz-and-me-over-a-loosely-intertwined-decade/)
+
+    - [Oracle vs Google](https://www.bloomberg.com/news/articles/2018-03-27/oracle-wins-revival-of-billion-dollar-case-against-google)
+
+    - [Apple vs Samsung](https://www.reuters.com/article/us-apple-samsung-elec/us-jury-awards-apple-539-million-in-samsung-patent-retrial-idUSKCN1IP3Q1)
+
+    - [Takata airbog recall](https://www.nhtsa.gov/equipment/takata-recall-spotlight)
+
+    - [DePuy hip replacement recall](https://www.telegraph.co.uk/news/2017/10/25/depuy-hip-replacement-safety-tests-seriously-flawed-high-court/)
+
+    - [Responsible encryption](https://arstechnica.com/tech-policy/2017/10/trumps-doj-tries-to-rebrand-weakened-encryption-as-responsible-encryption/)
+
+    - [Twiiter, Dataminr, Intelligence Agencies](https://www.wsj.com/articles/twitter-bars-intelligence-agencies-from-using-analytics-service-1462751682)
+
+    - [Natural Gas Leak in CA](http://time.com/4149170/california-natural-gas-methane-leak/)
+
+    - [Fracking and Quakes in Oklahoma](http://www.businessinsider.com/earthquakes-fracking-oklahoma-research-2018-2?IR=T)
+
+    - [Barcelona and Surveillance](http://www.wired.co.uk/article/barcelona-decidim-ada-colau-francesca-bria-decode)
+
+    - [Wisconsin, Foxconn, and Environmental Regulation](https://www.wpr.org/wisconsin-foxconn-deal-waives-environmental-regulations)
+
+    - [ZTE, Trump](http://www.businessinsider.com/trump-administration-deal-with-china-on-zte-sanctions-2018-5?IR=T)
+    
+    - [Robocallers](https://www.cnbc.com/amp/2018/06/06/americans-got-16-billion-robocalls-this-year-heres-how-to-stop-them.html)
+
+    - [Right to Try](https://arstechnica.com/science/2018/06/new-drug-access-law-intended-to-weaken-fda-according-to-lawmaker-behind-it/)
+    
+    - [Location Data Leak](https://motherboard.vice.com/en_us/article/gykgv9/securus-phone-tracking-company-hacked)
+
+    - [CLASSICS Act](https://techcrunch.com/2018/06/04/advocacy-groups-knock-unjust-copyright-extending-classics-act/)
+
+    - [FOSTA / SESTA](https://www.engadget.com/2018/04/11/trump-signs-fosta-sesta-bill-into-law/)
+
+    - [Net Neutrality](https://arstechnica.com/tech-policy/2018/05/net-neutrality-to-die-on-june-11-as-ajit-pai-blasts-special-interests/)
+
+    - [LAPD and Drones](https://www.theatlantic.com/technology/archive/2018/06/drone-cops-take-flight-in-los-angeles/562214/)
+
+    - [GDPR](https://www.zdnet.com/article/gdpr-an-executive-guide-to-what-you-need-to-know/)
+
+    - [Sentencing Software](http://reillytop10.com/2017/12/03/sentencing-software/)
+
+    - [Digital Markets Act (DMA) and Digital Services Act (DSA)](https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/)
+
+    - [Italian SA bans use of Google Analytics](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english)
+
+    - [Surfside condo collapse in Florida](https://www.npr.org/2022/06/23/1107080359/one-year-after-surfside-condo-collapse-in-florida-a-legal-settlement-is-approved)
+
+    - [Alexa audio deepfake](https://arstechnica.com/gadgets/2022/06/amazon-uses-kids-dead-grandma-in-morbid-demo-of-alexa-audio-deepfake/)
+
+    - [Chessbase vs Stockfish](https://stockfishchess.org/blog/2021/our-lawsuit-against-chessbase/)
+
+    - [GitHub vs Open Source](https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html)
+
+    - [Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’](https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html)
+
+    - [EPA warns toxic ‘forever chemicals’ more dangerous than once thought](https://www.washingtonpost.com/climate-environment/2022/06/15/epa-pfas-forever-chemicals/)
+
+    - [USB-C will be mandatory for phones sold in the EU ‘by autumn 2024’](https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste)
+
+    - [Google Engineer Claims AI Chatbot Is Sentient: Why That Matters](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
+
+    - [U.S. warns of discrimination in using artificial intelligence to screen job candidates](https://www.npr.org/2022/05/12/1098601458/artificial-intelligence-job-discrimination-disabilities)
+
+    - [Locked Out of ‘God Mode,’ Runners Are Hacking Their Treadmills](https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/)
+
+    - [Google vs Sonos](https://www.inc.com/jason-aten/google-is-intentionally-making-its-products-worse-for-users-reason-might-surprise-you.html)
+
+    - [Pegasus Spyware](https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones)
+
+    - [Hyundai whistleblower](https://www.axios.com/2021/11/10/us-auto-safety-regulator-hyundai-whistleblower)
+
+    - [Netflix employee walkout](https://www.npr.org/2021/10/20/1047307202/netflix-fired-trans-nonbinary-walkout-organizer-speaks)
+
+    - [Autonomous Warfare](https://www.patheos.com/blogs/throughcatholiclenses/2021/09/only-1-step-from-autonomous-warfare-privacy-concerns/)
+
+    - [Boeing 737 Max](https://newrepublic.com/article/154944/boeing-737-max-investigation-indonesia-lion-air-ethiopian-airlines-managerial-revolution)
+
+    - [Cryptocurrency](https://www.axios.com/2022/06/30/crypto-bear-bad-ugly)
+
+    - [Coinbase and ICE](https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/)
+
+    - [Amazon / Ring Sharing Data with Police](https://arstechnica.com/tech-policy/2022/07/amazon-finally-admits-giving-cops-ring-doorbell-data-without-user-consent/)
+
+    - [Japan’s Cyberbullying Laws](https://www.gizmodo.com.au/2022/07/japan-cyberbullying/)
+
+    - [Federal Patient Privacy Law Does Not Cover Most Period-Tracking Apps](https://www.propublica.org/article/period-app-privacy-hipaa#1364651)
+
+    - [School Surveillance](https://www.wired.com/story/school-surveillance-never-protect-kids-shootings/)
+
+    - [Nintendo Piracy](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
+
+    - [Tik Tok](https://www.slowboring.com/p/data-privacy-is-not-the-issue-with)
+
+    - [Right to be Forgotten](https://edition.cnn.com/2022/05/24/tech/cher-scarlett-facial-recognition-trauma/index.html)
+
+    - [Discord, Twitch, and Social Media influence on School Shootings](https://www.npr.org/2022/05/18/1099827783/new-york-attorney-general-probe-twitch-discord-buffalo-shooting)
+
+    - [Chat Control](https://www.patrick-breyer.de/en/posts/messaging-and-chat-control/)
+
+    - [Apple Scanning for Child Pornography](https://9to5mac.com/2022/05/11/apples-csam-troubles-may-be-back-as-eu-plans-a-law-requiring-detection/)
+
+    - [Bitcoin and the Environment](https://www.technologyreview.com/2022/04/18/1049331/bitcoin-cryptocurrency-cryptomining-new-york/)
+
+    - [Covid Patent Waivers](https://www.nature.com/articles/d41586-022-00878-x)
+
+    #### Notes
+
+    1. Only one group can present about a topic.  Once you have identified your
+    top three topic choices, submit your proposal using the form below.
+
+    2. If there is a topic or issue not on the list, verify with the instructor
+    before submitting it.
+    
+    ### Proposal
+    
+    Your project proposal is due at **midnight, Friday, July 22**.  You must
+    identify **three** possible topics and list them in order.  Topics will be
+    assigned in **first-come-first-serve** order.
+
+    To submit your proposal, one group member should fill out the following
+    [form](https://forms.gle/Mqxkga7w3nU6MUK89):
+    
+    <div class="text-center">
+      <a href="https://forms.gle/Mqxkga7w3nU6MUK89" class="btn btn-primary" target="_blank">Proposal Form</a>
+    </div>
+
+    ### Presentation
+
+    Your **video** presentation is due at **midnight, Sunday, July 31**.  You
+    should upload your presentation **video** to a cloud hosting service such
+    as [YouTube][], [Google Drive][], [Vimeo][], or [Soundcloud][].
+
+    To submit your project, one group member should fill out the following
+    [form](https://forms.gle/p4P5hqZHWUY5Nge7A):
+
+    <div class="text-center">
+      <a href="https://forms.gle/p4P5hqZHWUY5Nge7A" class="btn btn-primary" target="_blank">Presentation Form</a>
+    </div>
+
+    [Google Drive]: https://www.google.com/drive/
+    [YouTube]:      https://www.youtube.com
+    [Vimeo]:        https://www.vimeo.com
+    [Soundcloud]:   https://www.soundcloud.com
